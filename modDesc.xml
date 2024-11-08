@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="92">
+    <author>Jos</author>
+    <version>1.0.0.0</version>
+    <title>
+        <en>Mod Template</en>
+    </title>
+    <description>
+        <en><![CDATA[This is a sentence.]]></en>
+    </description>
+    <iconFilename>icon_blank.dds</iconFilename>
+    <multiplayer supported="true" />
+    <storeItems>
+        <storeItem xmlFilename="xml/filename.xml" />
+    </storeItems>
+</modDesc>
