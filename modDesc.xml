@@ -8,7 +8,7 @@
     <description>
         <en><![CDATA[This is a sentence.]]></en>
     </description>
-    <iconFilename>icon_blank.dds</iconFilename>
+    <iconFilename>icon_temporary.dds</iconFilename>
     <multiplayer supported="true" />
     <storeItems>
         <storeItem xmlFilename="xml/filename.xml" />
